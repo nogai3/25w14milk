@@ -60,7 +60,7 @@
     - Злата Устименко (wandarmo), 
     - Платон Унтеров (kartoha, PLYTONI), 
     - Константин Фадеев (KAPITANKASTET)
-- 🐐 Вдохновение: [Nerkin](https://www.youtube.com/watch?v=bON1srkJzec), [Minecraft шутки на первое апреля!](https://minecraft.wiki/w/April_Fools%27_Day_jokes)
+- 🐐 Вдохновение: [Nerkin](https://www.youtube.com/watch?v=bON1srkJzec), [Minecraft снапшоты на первое апреля!](https://minecraft.wiki/w/April_Fools%27_Day_jokes)
 
 ---
 
@@ -124,7 +124,7 @@ It`s **modified source code of the original Minecraft**.
     - Zlata Ustimenko (wandarmo), 
     - Platon Unterov (kartoha, PLYTONI), 
     - Konstantin Fadeev (KAPITANKASTET)
-- 🐐 Inspiration: [Nerkin](https://www.youtube.com/watch?v=bON1srkJzec), [Minecraft April Fools!](https://minecraft.wiki/w/April_Fools%27_Day_jokes)
+- 🐐 Inspiration: [Nerkin](https://www.youtube.com/watch?v=bON1srkJzec), [Minecraft April Fools Snapshots!](https://minecraft.wiki/w/April_Fools%27_Day_jokes)
 
 ---
 
