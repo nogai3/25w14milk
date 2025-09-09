@@ -32,6 +32,7 @@
 - 🧠 **Собственный билд ядра** Minecraft. +к скорости
 - 🔥 **Новые блоки, сущности, системы освещения** - всё через реальный код Minecraft!
 - ⚙  **Никаких Forge/Fabric/Quilt** - мы не модифицируем игру, мы **ею становимся**
+- 🌐 **Интеграция ИИ** - интеграция нашей собственной ИИ-модели (LighSync Gemini), позволяет вам получить ответ на интересующий вопрос не выходя из игры
 - 🎮 Всё, что происходит - полностью наше. Без ограничений.
 
 ---
@@ -96,6 +97,7 @@ It`s **modified source code of the original Minecraft**.
 - 🧠 **Own kernel build** Minecraft. +to the speed
 - 🔥 **New blocks, entities, lighting systems** - all through the actual Minecraft code!
 - ⚙  **There`s no Forge/Fabric/Quilt** - we don't modify the game, **we become it.**
+- 🌐 **AI integration** - integration of our own AI model (LighSync Gemini) allows you to get answers to your questions without leaving the game
 - 🎮 Everything that's going on - is all ours. No restrictions.
 
 ---
