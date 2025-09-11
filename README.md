@@ -8,7 +8,7 @@
 
 ---
 
-# Russian (RU) | Русский (РУ)
+# Русский (РУ)
 
 ---
 
@@ -48,7 +48,7 @@
 
 1. Загрузите архив на этой странице, или [тут](https://nogai3.github.io/LighSync/v1/downloads) и распакуйте его по пути: Win+R -> %appdata% -> .minecraft -> versions
 2. Откройте лаунчер, создайте новую установку, как версию выберите 25w14milk, если не отображается - включите отображение снапшотов
-3. Запускайте игру, загрузятся дополнительные ассеты с серверов Mojang Studios (можете проверить в 25w14milk.json он деобфусцирован)
+3. Запускайте игру, загрузятся дополнительные ассеты с серверов Mojang Studios (для старых версий), или с серверов LighSync Games (для новых версий)
 
 ---
 
@@ -73,7 +73,7 @@
 
 ---
 
-# English (EN) | Английский (АНГ)
+# English (EN)
 
 ---
 
@@ -113,7 +113,7 @@ It`s **modified source code of the original Minecraft**.
 
 1. Download the archive on this page, or [here](https://nogai3.github.io/LighSync/v1/downloads) and unpack it to the following path: Win+R -> %appdata% -> .minecraft -> versions
 2. Open Launcher, create a new installation, select 25w14milk as the version, if it is not displayed - enable snapshot displaying
-3. Start the game, additional assets from Mojang Studios servers will be loaded (you can check in 25w14milk.json it is deobfuscated).
+3. Start the game, additional assets from Mojang Studios servers will be loaded (for legacy version's) or loaded from LighSync Games servers (for newest versions)
 
 ---
 
