@@ -2,9 +2,8 @@
 
 ---
 
-# LighSync Games & Mojang Studios. Minecraft 25w14milk!
-### © LighSync Games. 2023-2025.
-### © Mojang Studios. 2009-2025.
+# LighSync Games. Minecraft 25w14milk!
+### © LighSync Games. 2023-2026.
 
 ---
 
